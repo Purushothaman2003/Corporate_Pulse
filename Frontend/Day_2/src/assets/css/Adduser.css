@@ -1,0 +1,74 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* background: url('..//videos/Couple.mp4'); */
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    
+  }
+  
+  .row_element {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    width: 35rem;
+    margin-left: 3rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .text {
+    color: #333;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style:italic;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-label {
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .button_1 {
+    background-color: #3498db;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button_1:hover {
+    background-color: #2980b9;
+  }
+  
+  .button_2 {
+    background-color: #c35050;
+    color: #ffffff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .button_2:hover {
+    background-color: #ba3a3a;
+  }
+  
