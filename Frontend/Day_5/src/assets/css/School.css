@@ -1,0 +1,102 @@
+.school
+{
+    background:url('..//images/des6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 665px;
+    width: 1519px;
+    border-radius: 0 0 50% 50%/10% 100% 10% 10%;
+    /* margin-top: -3rem; */
+}
+.school h2
+{
+    padding: 210px 30px;
+    margin-left:30rem;
+    color: rgb(78, 72, 72);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    font-style:italic;
+}
+.schl_event
+{
+    margin-top: 4rem;
+}
+.schl_event h2
+{
+    margin-left: 25rem;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.schl_event p
+{
+    font-size: 1.3rem;
+    margin-left: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.des_video video
+{
+    height: 300px;
+    width:auto;
+    margin-left: 10rem;
+}
+.slider
+{
+    border: 2px solid black;
+    height: 150px;
+    width: 270px;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    border-radius: 10px 10px 10px 10px;
+}
+.schl_list h2
+{
+    margin-left: 37rem;
+    margin-top: 5rem;
+    font-size:30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.schl_location
+{
+    /* border: 2px solid #004e96; */
+    float:center;
+    width: 50%;
+    margin-left:17rem;
+}
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    /* border-collapse: collapse; */
+    width: 50%;
+    /* height: 100%; */
+  }
+  
+  #customers td, #customers th  {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+  }
+  
+  #customers tr:nth-child(even)
+  {
+    background-color: #f2f2f2;
+}
+  
+  #customers tr:hover {background-color: #ddd;}
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #004e96;
+    color: white;
+    text-align: center;
+  }
+
+.schl_services
+{
+    margin-top: 4rem;
+    float:center;
+    width: 45%;
+    margin-left:47rem;
+    margin-top: -31rem;
+}
