@@ -1,0 +1,59 @@
+.wedding
+{
+    background:url('..//images/des2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 662px;
+    width: 1519px;
+    border-radius: 0 0 50% 50%/10% 100% 20% 20%;
+    /* margin-top: -2rem; */
+}
+.wedding h2
+{
+    padding: 120px 20px;
+    margin-left:30rem;
+    color: rgb(203, 79, 79);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 3rem;
+    font-style:italic;
+}
+.wed_content
+{
+    margin-top: 4rem;
+}
+.wed_content h2
+{
+    margin-left: 25rem;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+.wed_content p
+{
+    font-size: 1.3rem;
+    margin-left: 5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.des_video video
+{
+    height: 300px;
+    width:auto;
+    margin-left: 10rem;
+}
+.slider
+{
+    border: 2px solid black;
+    height: 150px;
+    width: 270px;
+    margin-left: 10rem;
+    margin-top: 10rem;
+    border-radius: 10px 10px 10px 10px;
+}
+.wed_list h2
+{
+    border: 2px solid black;
+    box-sizing: border-box;
+    margin-left: 40rem;
+    margin-top: -12rem;
+    width: 10%;
+}
