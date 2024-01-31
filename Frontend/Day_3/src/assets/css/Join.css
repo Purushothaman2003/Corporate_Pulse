@@ -1,0 +1,113 @@
+
+.interview img
+{
+    height:45rem;
+    min-width:auto;
+    /* margin-left: 5rem; */
+    margin-top:1rem;
+}
+.interview h1
+{
+    margin-left: 45rem;
+    margin-top: -8rem;
+    font-size: 40px;
+    font-weight: 500;
+    font-style:italic;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.inter_cont h2
+{
+    margin-left: 35rem;
+    margin-top: 3rem;
+    font-size: 35px;
+    color:  #1565c0;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+.inter_cont p
+{
+    margin-left: 4em;
+    font-size: 20px;
+    line-height:1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.joinus img
+{
+    height: 400px;
+    width: auto;
+    margin-top: 5rem;
+    margin-left: 6rem;
+}
+.join_back 
+{
+
+    height: 100px;
+    margin-top: 6rem;
+}
+.join_back h3
+{
+    font-size: 2rem;
+    margin-left: 13rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.join_back p
+{
+    font-size: 20px;
+    margin-left: 13rem;
+    margin-top: -1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.join_back h2
+{
+    margin-top: -6rem;
+    margin-left: 57rem;
+    font-size:43px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.job_application
+{
+  margin-left: 40rem;
+  margin-bottom: 0.2rem;
+  margin-top: -24rem;
+  border: 2px solid black;
+  background: url('..//images/joinus1.jpg');
+  width: 32rem;
+  padding-left:32px;
+  border-radius: 3rem;
+
+}
+.job_application input[type="text"],
+.job_application input[type="email"],
+.job_application input[type="tel"],
+.job_application input[type="file"],
+input.btn {
+  padding: 0.75rem;
+  padding-top: 4rem;
+  margin-bottom: 1rem;
+  width: calc(100% - 1.5rem); 
+  border: 1px solid #564c4c;
+  border-radius: 3rem;
+  padding: 12px;
+}
+
+input.btn {
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+.job_application form {
+  width: 100%; 
+  max-width: 600px; 
+  display: flex;
+  flex-direction: column; 
+} 
+
+.job_application label {
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
